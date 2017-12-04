@@ -19,6 +19,8 @@ eg
   }
 ```
 
+Build / install your app to your desired testing device (use a simulator for iOS).
+
 Run your appium server and then run.
 
 Then `node .`.
